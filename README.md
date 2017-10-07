@@ -14,6 +14,10 @@ In this assignment, you'll create a ~burger~ cake logger with MySQL, Node, Expre
 
 ### App Preview
 
+![1](https://github.com/kathrynherod/eat_cake/blob/master/gifs/ex1.gif?raw=true)
+
+![2](https://github.com/kathrynherod/eat_cake/blob/master/gifs/ex2.gif?raw=true)
+
 - - -
 
 ### Before You Begin
